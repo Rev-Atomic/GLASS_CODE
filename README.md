@@ -1,5 +1,5 @@
 # GLASS_CODE
-Arduino Glass code and description
+
 :Author: rev_atomic
 :Email: {scratchrev@gmail.com}
 :Date: 22/10/2020
