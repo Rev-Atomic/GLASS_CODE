@@ -21,7 +21,7 @@ https://github.com/PaulStoffregen/SPI
 
 == Step 2: Assemble the circuit
 
-Assemble the circuit following the diagram schematics.png attached to the sketch
+Assemble the circuit following the diagram schematics.svg attached to the sketch
 
 == Step 3: Load the code
 
@@ -32,8 +32,8 @@ Upload the code contained in the main arduino file on to your board
 ....
  Augmented_Glasses        => Arduino sketch folder
  ar_glasses_code.ino      => main Arduino file
- schematics.png           => Schematics
- ReadMe.adoc              => this file
+ schematics.svg           => Schematics
+ ReadMe.md                => this file
 ....
 
 === Contributing
