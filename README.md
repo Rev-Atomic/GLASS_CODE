@@ -49,7 +49,7 @@ These are the components:
 | Arduino Nano                      | 1
 | Battery (rechargeable)            | 1
 | Slide Switch (optional            | 1
-| Jumper Wires                      | 11 (10 male to male, one female to female)
+| Jumper Wires                      | 11 (10 female to female, one male to male)
 | Wires                             | 2   
 | Magnets (optional)                | 4
 | Glasses (metal if adding magnets) | 1
