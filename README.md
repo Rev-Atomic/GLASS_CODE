@@ -36,10 +36,10 @@ Upload the code contained in the main arduino file on to your board
  ReadMe.md                =>  
 ....
 
-=== Contributing
+=== Contributing: 
 To contribute to this project please contact rev_atomic https://id.arduino.cc/rev_atomic
 
-=== BOM
+=== BOM: 
 These are the components:
 
 
