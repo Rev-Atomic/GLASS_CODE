@@ -31,9 +31,9 @@ Upload the code contained in the main arduino file on to your board
 
 ....
  Augmented_Glasses        => Arduino sketch folder
-  ├── ar_glasses_code.ino => main Arduino file
-  ├── schematics.png      => Schematics
-  └── ReadMe.adoc         => this file
+ ar_glasses_code.ino      => main Arduino file
+ schematics.png           => Schematics
+ ReadMe.adoc              => this file
 ....
 
 === Contributing
@@ -53,6 +53,8 @@ These are the components:
 | Wires                             | 2   
 | Magnets (optional)                | 4
 | Glasses (metal if adding magnets) | 1
+| Mirror                            | 1
+| Lens                              | 6
 |===
 
 
