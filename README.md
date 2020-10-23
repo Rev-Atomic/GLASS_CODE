@@ -30,10 +30,10 @@ Upload the code contained in the main arduino file on to your board
 === Folder structure
 
 ....
- Augmented_Glasses        => Arduino sketch folder
- ar_glasses_code.ino      => main Arduino file
- schematics.svg           => Schematics
- ReadMe.md                => this file
+ Augmented_Glasses        =>  
+ ar_glasses_code.ino      =>  
+ schematics.svg           =>  
+ ReadMe.md                =>  
 ....
 
 === Contributing
