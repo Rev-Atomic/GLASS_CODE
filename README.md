@@ -58,7 +58,7 @@ These are the components:
 |===
 
 
-=== Help
+=== Help: 
 This document is written in the _AsciiDoc_ format, a markup language to describe documents.
 If you need help you can search the http://www.methods.co.nz/asciidoc[AsciiDoc homepage]
 or consult the http://powerman.name/doc/asciidoc[AsciiDoc cheatsheet]
